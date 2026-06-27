@@ -1,14 +1,14 @@
 SERVERALERT:
 
-             |cFFFFD700History of|r |cFFFF7C00World|r |cFF00FF00of|r |cFF00D1FFWarcraft|r
+             |cFFFFD700Welcome|r |cFFFF7C00to|r |cFF00D1FFEpicWoW|r
 ----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_ragnaros:25:25:0:-5|t |cFF00B4FFClassic Era (Vanilla)|r
-|TInterface\ICONS\achievement_arena_2v2_1:18:18:0:-8|t |cFFAAD372- Azeroth recovers from the Orcish Wars|r
-|TInterface\ICONS\achievement_bg_winwsg:18:18:0:-8|t |cFFAAD372- The Horde and the Alliance in a fragile peace|r
-|TInterface\ICONS\achievement_boss_onyxia:18:18:0:-8|t |cFFAAD372- Threats: Ragnaros, Onyxia, Nefarian|r
+|TInterface\ICONS\achievement_boss_ragnaros:25:25:0:-5|t |cFF00B4FFClassic WotLK WoW Experience)|r
+|TInterface\ICONS\achievement_arena_2v2_1:18:18:0:-8|t |cFFAAD372- Set your Experience Rate: 1x - 7x|r
+|TInterface\ICONS\achievement_bg_winwsg:18:18:0:-8|t |cFFAAD372- Cross Faction Interactions|r
+|TInterface\ICONS\achievement_boss_onyxia:18:18:0:-8|t |cFFAAD372- Transmog System|r
 ----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_illidan:25:25:0:-5|t |cFFFF7C00The Burning Crusade|r
-|TInterface\ICONS\spell_arcane_teleportorgrimmar:18:18:0:-8|t |cFFFFB347- The Dark Portal reopens|r
+|TInterface\ICONS\achievement_boss_illidan:25:25:0:-5|t |cFFFF7C00Custom Companion System|r
+|TInterface\ICONS\spell_arcane_teleportorgrimmar:18:18:0:-8|t |cFFFFB347- Mythic + Dungeons|r
 |TInterface\ICONS\achievement_boss_kiljaedan:18:18:0:-8|t |cFFFFB347- Burning Legion invades|r
 |TInterface\ICONS\achievement_bg_masterofallbgs:18:18:0:-8|t |cFFFFB347- Blood Elves and Draenei join|r
 ----------------------------------------------------------
