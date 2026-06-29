@@ -1,23 +1,25 @@
 SERVERALERT:
 
-             |cFFFFD700Welcome|r |cFFFF7C00to|r |cFF00D1FFEpicWoW|r
+                             |cFFFFD700Welcome|r |cFFFF7C00to|r |cFF00D1FFEpicWoW|r
 ----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_ragnaros:25:25:0:-5|t |cFF00B4FFClassic WotLK WoW Experience)|r
-|TInterface\ICONS\achievement_arena_2v2_1:18:18:0:-8|t |cFFAAD372- Set your Experience Rate: 1x - 7x|r
-|TInterface\ICONS\achievement_bg_winwsg:18:18:0:-8|t |cFFAAD372- Cross Faction Interactions|r
+|TInterface\ICONS\achievement_boss_lichking:25:25:0:-5|t |cFF00B4FFPhase 1 - Wrath Begins|r
+|TInterface\ICONS\achievement_reputation_argentcrusade:18:18:0:-8|t |cFFAAD372- Progression Wrath Server|r
+|TInterface\ICONS\achievement_zone_northrend_01:18:18:0:-8|t |cFFAAD372- Level 80 • 7x Experience (1x-7x Selectable)|r
+|TInterface\ICONS\achievement_bg_winwsg:18:18:0:-8|t |cFFAAD372- Cross-Faction Gameplay|r
 |TInterface\ICONS\achievement_boss_onyxia:18:18:0:-8|t |cFFAAD372- Transmog System|r
 ----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_illidan:25:25:0:-5|t |cFFFF7C00Custom Companion System|r
-|TInterface\ICONS\spell_arcane_teleportorgrimmar:18:18:0:-8|t |cFFFFB347- Mythic + Dungeons|r
-|TInterface\ICONS\achievement_boss_kiljaedan:18:18:0:-8|t |cFFFFB347- Burning Legion invades|r
-|TInterface\ICONS\achievement_bg_masterofallbgs:18:18:0:-8|t |cFFFFB347- Blood Elves and Draenei join|r
+|TInterface\ICONS\achievement_dungeon_naxxramas:25:25:0:-5|t |cFFFF7C00Now Available|r
+|TInterface\ICONS\spell_deathknight_iceboundfortitude:18:18:0:-8|t |cFFFFB347- Naxxramas|r
+|TInterface\ICONS\achievement_boss_sartharion_01:18:18:0:-8|t |cFFFFB347- The Obsidian Sanctum|r
+|TInterface\ICONS\achievement_boss_malygos_01:18:18:0:-8|t |cFFFFB347- The Eye of Eternity|r
+|TInterface\ICONS\achievement_bg_winav:18:18:0:-8|t |cFFFFB347- Vault of Archavon|r
 ----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_lichking:25:25:0:-5|t |cFF00D1FFWrath of the Lich King|r
-|TInterface\ICONS\achievement_zone_icecrown_01:18:18:0:-8|t |cFFA6D8FF- Arthas awakens as the Lich King|r
-|TInterface\ICONS\spell_deathknight_iceboundfortitude:18:18:0:-8|t |cFFA6D8FF- Death Knights invade|r
-|TInterface\ICONS\inv_helmet_133:18:18:0:-8|t |cFFA6D8FF- Battle for Icecrown|r
+|TInterface\ICONS\achievement_boss_yoggsaron_01:25:25:0:-5|t |cFF00D1FFThe Journey Continues...|r
+|TInterface\ICONS\spell_holy_borrowedtime:18:18:0:-8|t |cFFA6D8FF- Ulduar will unlock in a future phase.|r
+|TInterface\ICONS\achievement_boss_lichking:18:18:0:-8|t |cFFA6D8FF- Icecrown Citadel will open progressively.|r
+|TInterface\ICONS\inv_misc_map_01:18:18:0:-8|t |cFFA6D8FF- New Classic+ content is already in development.|r
 ----------------------------------------------------------
-|TInterface\ICONS\inv_inscription_weaponscroll02:25:25:0:-5|t |cFFAA22FFReady for your adventure?|r
-|TInterface\ICONS\achievement_guildperk_everybodysfriend:18:18:0:-5|t |cFFE6CC80Join our community:|r 
+|TInterface\ICONS\inv_inscription_weaponscroll02:25:25:0:-5|t |cFFAA22FFReady to begin?|r
+|TInterface\ICONS\achievement_guildperk_everybodysfriend:18:18:0:-5|t |cFFE6CC80Stay connected with the community:|r
             |TInterface\ICONS\mail_gmicon:18:18:0:-3|t Web: https://www.epicwow.org
             |TInterface\ICONS\inv_misc_groupneedmore:18:18:0:-3|t Discord: https://discord.gg/qvHekArmP
