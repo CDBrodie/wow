@@ -1,6 +1,6 @@
 SERVERALERT:
 
-                             |cFFFFD700Welcome|r |cFFFF7C00to|r |cFF00D1FFEpicWoW|r
+                             |cFFFFD700Welcome|r |cFFFF7C00to|r |cFF00D1FFValemane|r
 ----------------------------------------------------------
 |TInterface\ICONS\achievement_boss_lichking:25:25:0:-5|t |cFF00B4FFPhase 1 - Wrath Begins|r
 |TInterface\ICONS\achievement_reputation_argentcrusade:18:18:0:-8|t |cFFAAD372- Progression Wrath Server|r
@@ -21,4 +21,4 @@ SERVERALERT:
 ----------------------------------------------------------
 |TInterface\ICONS\inv_inscription_weaponscroll02:25:25:0:-5|t |cFFAA22FFReady to begin?|r
 |TInterface\ICONS\achievement_guildperk_everybodysfriend:18:18:0:-5|t |cFFE6CC80Stay connected with the community:|r
-            |TInterface\ICONS\mail_gmicon:18:18:0:-3|t Web: https://www.epicwow.org
+            |TInterface\ICONS\mail_gmicon:18:18:0:-3|t Web: https://www.valemane.org
