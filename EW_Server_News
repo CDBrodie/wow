@@ -1,24 +1,24 @@
 SERVERALERT:
 
-                             |cFFFFD700Welcome|r |cFFFF7C00to|r |cFF00D1FFValemane|r
+                         |cFFB9DFFFWelcome to Valemane|r
 ----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_lichking:25:25:0:-5|t |cFF00B4FFPhase 1 - Wrath Begins|r
-|TInterface\ICONS\achievement_reputation_argentcrusade:18:18:0:-8|t |cFFAAD372- Progression Wrath Server|r
-|TInterface\ICONS\achievement_zone_northrend_01:18:18:0:-8|t |cFFAAD372- Level 80 • 7x Experience (1x-7x Selectable)|r
-|TInterface\ICONS\achievement_bg_winwsg:18:18:0:-8|t |cFFAAD372- Cross-Faction Gameplay|r
-|TInterface\ICONS\achievement_boss_onyxia:18:18:0:-8|t |cFFAAD372- Transmog System|r
+|TInterface\ICONS\achievement_boss_lichking:25:25:0:-5|t |cFF59C7FFPhase 1 - Our Journey Begins|r
+|TInterface\ICONS\achievement_reputation_argentcrusade:18:18:0:-8|t |cFFD8E4EC- Progressive Wrath Server|r
+|TInterface\ICONS\achievement_zone_northrend_01:18:18:0:-8|t |cFFD8E4EC- Level 80 • Experience Rates 1x - 7x|r
+|TInterface\ICONS\achievement_bg_winwsg:18:18:0:-8|t |cFFD8E4EC- Cross-Faction Gameplay|r
+|TInterface\ICONS\achievement_boss_onyxia:18:18:0:-8|t |cFFD8E4EC- Transmogrification System|r
 ----------------------------------------------------------
-|TInterface\ICONS\achievement_dungeon_naxxramas:25:25:0:-5|t |cFFFF7C00Now Available|r
-|TInterface\ICONS\spell_deathknight_iceboundfortitude:18:18:0:-8|t |cFFFFB347- Naxxramas|r
-|TInterface\ICONS\achievement_boss_sartharion_01:18:18:0:-8|t |cFFFFB347- The Obsidian Sanctum|r
-|TInterface\ICONS\achievement_boss_malygos_01:18:18:0:-8|t |cFFFFB347- The Eye of Eternity|r
-|TInterface\ICONS\achievement_bg_winav:18:18:0:-8|t |cFFFFB347- Vault of Archavon|r
+|TInterface\ICONS\achievement_dungeon_naxxramas:25:25:0:-5|t |cFF59C7FFPhase 1 - Now Available|r
+|TInterface\ICONS\spell_deathknight_iceboundfortitude:18:18:0:-8|t |cFFC5D5E0- Naxxramas|r
+|TInterface\ICONS\achievement_boss_sartharion_01:18:18:0:-8|t |cFFC5D5E0- The Obsidian Sanctum|r
+|TInterface\ICONS\achievement_boss_malygos_01:18:18:0:-8|t |cFFC5D5E0- The Eye of Eternity|r
+|TInterface\ICONS\achievement_bg_winav:18:18:0:-8|t |cFFC5D5E0- Vault of Archavon|r
 ----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_yoggsaron_01:25:25:0:-5|t |cFF00D1FFThe Journey Continues...|r
-|TInterface\ICONS\spell_holy_borrowedtime:18:18:0:-8|t |cFFA6D8FF- Ulduar will unlock in a future phase.|r
-|TInterface\ICONS\achievement_boss_lichking:18:18:0:-8|t |cFFA6D8FF- Icecrown Citadel will open progressively.|r
-|TInterface\ICONS\inv_misc_map_01:18:18:0:-8|t |cFFA6D8FF- New Classic+ content is already in development.|r
+|TInterface\ICONS\achievement_boss_yoggsaron_01:25:25:0:-5|t |cFF59C7FFThe Journey Continues...|r
+|TInterface\ICONS\spell_holy_borrowedtime:18:18:0:-8|t |cFFAFC9DA- Ulduar awaits in a future phase.|r
+|TInterface\ICONS\achievement_boss_lichking:18:18:0:-8|t |cFFAFC9DA- Icecrown Citadel will unlock progressively.|r
+|TInterface\ICONS\inv_misc_map_01:18:18:0:-8|t |cFFAFC9DA- New Classic+ adventures are in development.|r
 ----------------------------------------------------------
-|TInterface\ICONS\inv_inscription_weaponscroll02:25:25:0:-5|t |cFFAA22FFReady to begin?|r
-|TInterface\ICONS\achievement_guildperk_everybodysfriend:18:18:0:-5|t |cFFE6CC80Stay connected with the community:|r
-            |TInterface\ICONS\mail_gmicon:18:18:0:-3|t Web: https://www.valemane.org
+|TInterface\ICONS\inv_inscription_weaponscroll02:25:25:0:-5|t |cFFFFD36AReady to begin your journey?|r
+|TInterface\ICONS\achievement_guildperk_everybodysfriend:18:18:0:-5|t |cFFD8E4ECJoin the Valemane community and stay connected.|r
+            |TInterface\ICONS\mail_gmicon:18:18:0:-3|t |cFF59C7FFwww.valemane.org|r
